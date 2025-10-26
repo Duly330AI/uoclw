@@ -36,7 +36,17 @@ dist/
 *.sqlite3
 Saves/
 Logs/
+
+# ============================================
+# UO MUL Files - PROPRIETARY EA/BROADSWORD!
+# ============================================
+# Do NOT commit MUL/IDX files - copyright protected
+# These are extracted from original UO client
 Data/
+ServUO/Data/
+*.mul
+*.idx
+*.uop
 
 # ============================================
 # OS specific
