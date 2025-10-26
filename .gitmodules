@@ -1,0 +1,3 @@
+[submodule "ServUO"]
+	path = ServUO
+	url = https://github.com/ServUO/ServUO.git
