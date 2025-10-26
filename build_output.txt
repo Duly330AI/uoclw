@@ -1,0 +1,2 @@
+MSBUILD : error MSB1009: Die Projektdatei ist nicht vorhanden.
+Schalter: ServUO.sln
