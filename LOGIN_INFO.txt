@@ -1,0 +1,90 @@
+🎮 SERVER LÄUFT! HIER IST DEIN LOGIN 🎮
+═════════════════════════════════════════════════════════════
+
+✅ ServUO Server Status:
+   ├─ Status: ONLINE ✓
+   ├─ Port: 2593 ✓
+   ├─ IP: localhost oder 127.0.0.1 ✓
+   └─ Accounts: Erstellt ✓
+
+═════════════════════════════════════════════════════════════
+
+👤 ACCOUNTS (Zur Verfügung):
+
+1. ADMIN Account (Zugang zu Befehlen)
+   Username: admin
+   Password: admin
+   Level: Owner
+
+2. PLAYER Account (Normales Spielen)
+   Username: player
+   Password: player
+   Level: Player
+
+═════════════════════════════════════════════════════════════
+
+🎮 WIE DU CONNECTEST:
+
+SCHRITT 1: UO Classic Client starten
+   └─ Pfad: c:\noc_project\UNOC\uo_lemuriaworld\Ultima Online Classic\client.exe
+   └─ Oder: UO.exe
+
+SCHRITT 2: Server IP eingeben
+   └─ IP/Server: localhost
+   └─ Oder: 127.0.0.1
+   └─ Port: 2593
+
+SCHRITT 3: Login-Daten
+   └─ Username: admin (oder player)
+   └─ Password: admin (oder player)
+
+SCHRITT 4: Character erstellen
+   └─ "Create New Character"
+   └─ Namen eingeben
+   └─ Class & Stats
+   └─ "Okay"
+
+SCHRITT 5: IM SPIEL!
+   └─ Welcome to Lemuria World! 🚀
+
+═════════════════════════════════════════════════════════════
+
+⚡ TECHNISCHE INFOS:
+
+Server läuft auf:
+   - 192.168.178.59:2593 (Lokales Netzwerk)
+   - 127.0.0.1:2593 (Localhost)
+   - 172.19.112.1:2593 (Docker/WSL)
+   - 172.27.160.1:2593 (Docker/WSL)
+
+Client Version: 7.0.113.0 (erforderlich)
+
+═════════════════════════════════════════════════════════════
+
+❓ PROBLEME?
+
+Problem: "Cannot connect to server"
+Lösung:
+   1. Firewall Port 2593 freigeben
+   2. Client-Version checken (7.0.113.0)
+   3. localhost vs. IP prüfen
+
+Problem: "Invalid username/password"
+Lösung:
+   1. Großbuchstaben beachten!
+   2. Username: admin, Password: admin
+   3. oder username: player, password: player
+
+═════════════════════════════════════════════════════════════
+
+🚀 DANN:
+
+Sobald du im Spiel bist:
+1. Character erstellen
+2. In der Welt spawnen
+3. Herumwandern & testen
+4. DANN entwickeln wir Custom NPCs! 💪
+
+═════════════════════════════════════════════════════════════
+
+👉 BEREIT? STARTE DEN CLIENT UND CONNECTE! 🎮
