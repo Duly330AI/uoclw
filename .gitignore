@@ -1,0 +1,71 @@
+# ============================================
+# ULTIMA ONLINE - DO NOT COMMIT!
+# ============================================
+# Original UO Client files - proprietary EA/Broadsword content
+Ultima Online Classic/
+Ultima Online Enhanced/
+UOClient/
+client.exe
+UO.exe
+
+# ============================================
+# .NET / C# Build artifacts
+# ============================================
+bin/
+obj/
+.vs/
+.vscode/extensions
+*.dll
+*.exe (except as noted above)
+*.pdb
+*.vsix
+
+# ============================================
+# Build outputs
+# ============================================
+/out/
+/build/
+dist/
+
+# ============================================
+# Runtime files
+# ============================================
+*.log
+*.db
+*.sqlite
+*.sqlite3
+Saves/
+Logs/
+Data/
+
+# ============================================
+# OS specific
+# ============================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# ============================================
+# IDE / Editor
+# ============================================
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.idea/
+*.user
+*.suo
+
+# ============================================
+# Dependencies
+# ============================================
+node_modules/
+packages/
+
+# ============================================
+# Temporary files
+# ============================================
+*.tmp
+*.temp
+*.bak
