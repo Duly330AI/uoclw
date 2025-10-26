@@ -1,0 +1,40 @@
+🎮 JETZT IST DEINE ZEIT! 🎮
+═════════════════════════════════════════════════════════════
+
+WAS DU JETZT MACHEN MUSST (Dauer: 15-20 Min):
+
+1️⃣ UOFiddler HERUNTERLADEN
+   └─ https://github.com/Silby/UoFiddler/releases
+   └─ Neueste Version herunterladen
+   └─ ZIP extrahieren
+
+2️⃣ UOFiddler STARTEN
+   └─ Doppelklick auf UOFiddler.exe
+   └─ Fenster öffnet sich
+
+3️⃣ PFAD ZEIGEN
+   └─ Menu: File → Choose Folder
+   └─ Wähle: c:\noc_project\UNOC\uo_lemuriaworld\Ultima Online Classic\
+   └─ OK klicken
+
+4️⃣ EXPORTIEREN (dauert 10-15 Min!)
+   └─ Menu: File → Export → All MUL Data
+   └─ Speicherort: c:\noc_project\UNOC\uo_lemuriaworld\ServUO\Data\
+   └─ Export starten
+   └─ WARTEN BIS FERTIG!
+
+5️⃣ MIR BESCHEID SAGEN
+   └─ "MUL-Dateien sind fertig!"
+   └─ Dann starte ich den Server 🚀
+
+═════════════════════════════════════════════════════════════
+
+✨ DANN:
+   - Ich kompiliere & starte ServUO
+   - Wir erstellen einen Account
+   - Du connectest mit Client
+   - DU SPIELST! 🎮
+
+═════════════════════════════════════════════════════════════
+
+Bereit? Los geht's! 💪
